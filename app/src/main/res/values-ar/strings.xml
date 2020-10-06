@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">أحسبلي</string>
+    <string name="navigation_drawer_open">افتح الستارة الجانبية</string>
+    <string name="navigation_drawer_close">أغلق الستارة الجانبية</string>
+    <string name="nav_header_title">أحسبلي</string>
+    <string name="nav_header_subtitle">hm.engineer039@gmail.com</string>
+    <string name="nav_header_desc">رأس التوجيه</string>
+    <string name="action_settings">الضبط</string>
+
+    <string name="menu_home">ألرئيسية</string>
+    <string name="menu_gallery">الملخص</string>
+    <string name="menu_slideshow">الضبط</string>
+    <string name="balcony_radius">نصف قطر البلكونة</string>
+    <string name="service_balcony_radius">نصف قطر البلكونة</string>
+    <string name="title_activity_settings">الضبط</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">ضبط حساب نصف قطر البلكونة</string>
+    <string name="sync_header">تحديث</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">اسمك</string>
+    <string name="units_title">واحدة القياس</string>
+
+    <string name="title_activity_balcony_radius2">BalconyRadius2</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_balcony_radius">نصف قطر البلكونة</string>
+    <string name="width">العرض</string>
+    <string name="date">التاريخ</string>
+    <string name="length">الطول</string>
+    <string name="radius">نصف القطر</string>
+    <string name="submit">احسب</string>
+    <string name="balcony_width">عرض البلكونة</string>
+    <string name="balcony_length">طول البلكونة</string>
+    <string name="cm">سم</string>
+    <string name="invalid_input">خطأ في إدخال القيم</string>
+    <string name="unit_meter">م</string>
+    <string name="unit_note">ملاحظة: يمكنك تغيير واحدة القياس الإفتراضية من الضبط</string>
+    <string name="lang">اللغة</string>
+    <string name="dialog_change_language_title">تغيير اللغة</string>
+    <string name="dialog_change_language_body" >هل أنت متأكد من أنك تريد تغيير لغة التطبيق</string>
+    <string name="ok">تم</string>
+    <string name="cancel">الغاء</string>
+    <string name="english">اللغة الإنكليزية</string>
+    <string name="arabic">اللغة العربية</string>
+    <string name="no_operations_yet">لم تقم بأي عمليات حسابية.</string>
+    <string name="reset">عملية جديدة</string>
+</resources>
